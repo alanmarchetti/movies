@@ -1,0 +1,53 @@
+.movie-info {
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+}
+
+.movie-info h1 {
+    margin: 20px 0;
+}
+
+.movie-info img {
+    border-radius: 20px;
+}
+
+.movie-info h3 {
+    font-size: 20px;
+    color: #090910;
+    margin: 15px 0;
+}
+
+.movie-info p {
+    color: #090910;
+}
+
+.movie-info button {
+    margin-top: 20px;
+    margin-right: 15px;
+    width: 150px;
+    height: 42px;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    font-size: 17px;
+    transition: all 0.5s;
+    background-color: #A9333A;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.movie-info button:hover {
+    border: 1px solid #A9333A;
+    background-color: #FFF;
+    color: #A9333A;
+}
+
+.movie-info a {
+    color: #FFF;
+    cursor: pointer;
+}
+
+.movie-info a:hover {
+    color: #A9333A;
+}

@@ -1,0 +1,64 @@
+.my-movies{
+    display: flex;
+    width:900px;
+    height: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #A9333A;
+    margin: 20px 0;
+}
+
+ul{
+    padding: 0;
+  
+}
+
+li {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 900px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+span {
+    font-size: 23px;
+}
+
+.bad {
+    color:#A9333A;
+}
+
+.details {
+    color: #A9333A;
+    background-color: #fff;
+    margin: 14px;
+    width: auto;
+    border-radius: 7px;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #A9333A;
+}
+
+.remove {
+    color: #fff;
+    background-color: #A9333A;
+    margin: 14px;
+    width: auto;
+    border-radius: 7px;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    outline: none;
+    border: 0;
+}
+
