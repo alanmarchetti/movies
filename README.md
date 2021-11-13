@@ -29,3 +29,4 @@ Neste projeto foram utilizados os seguintes hooks do React
 
 
 ## Link do deploy do projeto
+[Link da aplicação](https://relaxed-pare-762e84.netlify.app)
